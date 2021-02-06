@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1611505947 "Notes.tex" "Notes.pdf" "Notes" 1611505948
+["pdflatex"] 1612636550 "Notes.tex" "Notes.pdf" "Notes" 1612636550
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -69,13 +69,13 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "Notes.aux" 1611505948 1156 e6ea9a791060bf30ddd0409898c41590 "pdflatex"
-  "Notes.out" 1611505948 246 6edc77a0c8cbc0f6d02b62709f7a5d06 "pdflatex"
-  "Notes.tex" 1611505947 5614 c84787604dddf096e8af33890dccfe82 ""
-  "Notes.toc" 1611505948 334 53c54756f62b4d912d791bf95110431f "pdflatex"
+  "Notes.aux" 1612636550 1279 97842081ded51defb18f68a8dc22f5f8 "pdflatex"
+  "Notes.out" 1612636550 307 dee62fde3e11d5c771e254b0d51e2aa2 "pdflatex"
+  "Notes.tex" 1612636548 6555 0a73a1c946c1ea3944ffa1307d4c297b ""
+  "Notes.toc" 1612636550 417 2e06940c1d92f303c97a7bf50ed11226 "pdflatex"
   (generated)
-  "Notes.log"
   "Notes.out"
-  "Notes.toc"
   "Notes.pdf"
+  "Notes.toc"
+  "Notes.log"
   "Notes.aux"

@@ -2,3 +2,4 @@
 \contentsline {section}{\numberline {2}What are entrepreneurial opportunities}{2}{section.2}% 
 \contentsline {section}{\numberline {3}What is Strategic Decision Making}{2}{section.3}% 
 \contentsline {section}{\numberline {4}Entrepreneurial Mindset}{3}{section.4}% 
+\contentsline {section}{\numberline {5}Entrepreneurial Motivation}{4}{section.5}% 
